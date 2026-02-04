@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Bolt, ShieldCheck, Layers, Smartphone, ArrowRight, Wallet, CheckCircle2 } from 'lucide-react';
 
 export default function LandingPage() {
-  const INSTALL_LINK = "https://expo.dev/accounts/kadobitech/projects/kadobipay/builds/3e8144d7-7757-4485-8df0-18e07b1fecdc";
+  const INSTALL_LINK = "https://expo.dev/accounts/kadobitech/projects/kadobipay/builds/faa27101-2712-41be-b0a8-0559bcda5c36";
   
   const [email, setEmail] = useState("");
   const [isSubmitted, setIsSubmitted] = useState(false);
